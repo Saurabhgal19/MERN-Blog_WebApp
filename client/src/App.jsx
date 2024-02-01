@@ -9,6 +9,7 @@ import Header from './component/Header';
 import Projects from './pages/Projects';
 import FooterBar from './component/FooterBar';
 
+
 export default function App() {
   return (
     <BrowserRouter>
